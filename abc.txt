@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hellloooooooaosdaosdfoafd
 a
 sd
@@ -9,3 +10,6 @@ as
 df
 asd
 fasdf
+=======
+This is dev branch modifying for conflict
+>>>>>>> 5cea7755a18b053769abbcab4a3504f99170f669
